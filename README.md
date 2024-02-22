@@ -1,2 +1,2 @@
 Git練習用リポジトリ
-GitHub上で更新
+conflict-remoteブランチ上で更新(conflict発生)
