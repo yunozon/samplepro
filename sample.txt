@@ -1,2 +1,2 @@
 hello wolrd
-no-fast-forwardブランチで変更
+mainブランチで変更
