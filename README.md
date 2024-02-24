@@ -1,2 +1,2 @@
 Git練習用リポジトリ
-conflict-remoteブランチ上で更新(conflict発生)
+rebase-branchブランチ上で更新(rebase実験)
