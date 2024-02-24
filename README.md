@@ -1,2 +1,2 @@
 Git練習用リポジトリ
-mainブランチでブランチ上で更新(rebase コン振り区と実験)
+rebase-branchブランチ上で更新(rebase こんふりくと用実験)
